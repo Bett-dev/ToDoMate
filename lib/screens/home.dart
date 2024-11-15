@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
                 Container(
                  
                   margin: const EdgeInsets.only(top: 50, bottom: 20,left: 15,right: 15),
-                  child: const Text('All ToDos',style: TextStyle(fontSize: 30, fontWeight: FontWeight.w500),),
+                  child: const Text('All ToDos',style: TextStyle(fontSize: 30, fontWeight: FontWeight.w600),),
                 ),
               ],
             ),
